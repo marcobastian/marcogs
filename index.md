@@ -1,4 +1,4 @@
-#諸羅山美食探索地圖─────不只有火雞肉飯
+<font size="12pt">諸羅山探索地圖─────<font size="9pt">不只有火雞肉飯的美食小鎮
 ![](http://fun.chiayi.gov.tw/cy2012/images/396/images/%E5%98%89%E7%BE%A9%E7%81%AB%E8%BB%8A%E7%AB%991.JPG)
 ##Path of food in Chiayi
 You can use the [editor on GitHub](https://github.com/marcobastian/marcogs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
